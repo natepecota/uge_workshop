@@ -1,0 +1,5 @@
+Use git branch to see what branches you have and what branch you are currently on denoted by the asterisk.
+
+Use git checkout command to change what branch you are currently on.
+
+
