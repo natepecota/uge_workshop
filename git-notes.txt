@@ -2,4 +2,6 @@ Use git branch to see what branches you have and what branch you are currently o
 
 Use git checkout command to change what branch you are currently on.
 
+I have a repo on Github now.
+
 
