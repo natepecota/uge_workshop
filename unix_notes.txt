@@ -1,4 +1,4 @@
-These are notes about unix and git
+These are notes about unix and git.
 
 Working Directory                 Staging                         Repo
 unix_notes.txt      git add    unix_notes.txt                       
